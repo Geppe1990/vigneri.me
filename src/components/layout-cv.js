@@ -184,6 +184,11 @@ const LayoutCv = (props) => {
 						<div className="cv-istruzione card card--right">
 							<h2>{label.education}</h2>
 							<div className="block">
+								<h3>{label.uniTitle}</h3>
+								<small>{label.uniProgress}</small>
+								<small><span>Università degli Studi di Ferrara</span><span>Ferrara</span></small>
+							</div>
+							<div className="block">
 								<h3>{label.eciparTitle}</h3>
 								<small><span>Ecipar</span><span>Ferrara</span></small>
 								<span>{label.eciparDescription}</span>

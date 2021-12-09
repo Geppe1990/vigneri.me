@@ -26,7 +26,9 @@
 			"education": "Istruzione e Formazione",
 			"eciparTitle": "Tecnico di Comunicazione e Informazione",
 			"eciparDescription": "Come tecnico della comunicazione e Informazione sono in grado di progettare, sviluppare, gestire e coordinare azioni comunicative in funzione dei fabbisogni rilevati, di predisporre testi scritti e adottare stili e concetti comunicativi efficaci e adeguati al contesto",
-			"itiTitle": "Diploma in Elettronica & telecomunicazioni",
+			"uniTitle": "Ingegneria Elettronica & Informatica",
+			"uniProgress": "(2021 - In Corso)",
+			"itiTitle": "Diploma in Elettronica & Telecomunicazioni",
 			"skills": "Competenze",
 			"contacts": "Contatti"
 		},
@@ -42,7 +44,7 @@
 			"birthDescription": "03/02/1990 - Codigoro (FE) - Italy",
 			"nationality": "Nationality",
 			"nationalityDescription": "Italian",
-			"ynapDescription": "Development of ecommerce flagagships in the luyury fashion sector that exploit the combination of an MVC project on .net framework for the ecommerce part, and the CoreMedia platform for landing pages, news and blogs. For these projects I have developed several frontend components in Javascript ES6, React, .net, SASS and Javascript task runner",
+			"ynapDescription": "Development of ecommerce flagships in the luyury fashion sector that exploit the combination of an MVC project on .net framework for the ecommerce part, and the CoreMedia platform for landing pages, news and blogs. For these projects I have developed several frontend components in Javascript ES6, React, .net, SASS and Javascript task runner",
 			"pronesisDescription": "Development of ecommerce and institutional sites with CMS PrestaShop and WordPress developing mainly in PHP (and related Smarty markup engine), Javascript, jQuery and SASS",
 			"work": "Job Carreer",
 			"ODDescription": "Development of institutional sites linked to the PA using the CMS WordPress and Drupal or creating ad-hoc solutions in PHP for the backend part and Javascript, SASS and jQuery for the frontend part",
@@ -57,6 +59,8 @@
 			"eciparTitle": "Communication and Information Technician",
 			"eciparDescription": "As a communication and information technician I am able to plan, develop, manage and coordinate communication actions according to the needs identified, to prepare written texts and adopt effective and appropriate communication styles and concepts to the context",
 			"itiTitle": "Graduate in Elettronica & telecomunicazioni",
+			"uniTitle": "Electronic & Computer Engineering",
+			"uniProgress": "(2021 - In Progress)",
 			"skills": "Skills",
 			"contacts": "Contacts"
 		}
