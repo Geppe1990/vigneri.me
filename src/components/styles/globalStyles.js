@@ -197,6 +197,12 @@ const GlobalStyles = createGlobalStyle`
 			margin-right: 10px;
 		}
 
+		@media print {
+			box-shadow: none;
+			background: #ffffff;
+			margin-bottom: 0;
+		}
+
 		&:last-child {
 			.card-container & {
 				margin-bottom: 40px;
